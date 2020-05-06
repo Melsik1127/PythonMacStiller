@@ -1,8 +1,8 @@
 # -*- coding: utf8 -*-
 import subprocess
 
-print('1) windows')
-print('2) linux')
+print('1) linux')
+print('2) windows')
 print('\n')
 
 input_text = str(input())
